@@ -16,7 +16,7 @@ If you are running this as a workshop, it is recommended you fork this repo as t
 Do the following:
 - Clone this repo (or a fork thereof if you are a facilitator for students) and change directory into the root dir, _ml-workshop_.  Create a variable *REPO_HOME*_ for this directory
 ```
-git clone https://github.com/masoodfaisal/ml-workshop
+git clone https://github.com/bhsingh1/ml-workshop.git
 cd ml-workshop
 export REPO_HOME=`pwd`
 ```
